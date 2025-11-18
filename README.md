@@ -107,7 +107,7 @@ console.log("Hello, World! 🌍");
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Princekr267&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=Princekr267&theme=radical&no-frame=false&row=1&column=7" alt="trophy" />
 
 </div>
 
