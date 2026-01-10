@@ -93,12 +93,8 @@ console.log("Hello, World! 🌍");
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Princekr267&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Princekr267&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
-
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Princekr267&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=8" />
-
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Princekr267&show_icons=true&theme=radical" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Princekr267&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF41&sideLabels=00FF41&dates=FFFFFF" alt="GitHub Streak" />
 </div>
 
 ---
@@ -106,9 +102,7 @@ console.log("Hello, World! 🌍");
 ## 🏆 GitHub Achievements
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Princekr267&theme=radical&no-frame=false&row=1&column=7" alt="trophy" />
-
+<img src="https://github-trophies.vercel.app/?username=Princekr267&theme=radical&row=1&column=7" alt="trophy" />
 </div>
 
 ---
