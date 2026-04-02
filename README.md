@@ -24,19 +24,20 @@ public:
     string role = "Full Stack Developer & DSA Enthusiast";
     
     map<string, vector<string>> techStack = {
-        {"languages", {"C++", "JavaScript", "Python", "C"}},
-        {"frontend", {"React.js", "HTML", "CSS", "Bootstrap", "Tailwind"}},
-        {"backend", {"Node.js", "Express.js", "Passport.js"}},
-        {"databases", {"MongoDB", "MySQL"}},
-        {"devops", {"Docker", "Kubernetes"}},
-        {"tools", {"Git", "GitHub", "VS Code", "Cloudinary"}}
+        {"languages",  {"C++", "JavaScript", "TypeScript", "Java", "Python", "C"}},
+        {"frontend",   {"React.js", "Material UI", "HTML", "CSS", "Bootstrap", "Tailwind"}},
+        {"backend",    {"Node.js", "Express.js", "Passport.js", "JWT Auth", "RESTful APIs"}},
+        {"databases",  {"MongoDB", "Mongoose ODM", "MySQL"}},
+        {"realtime",   {"Socket.io", "WebRTC"}},
+        {"devops",     {"Docker", "Kubernetes"}},
+        {"tools",      {"Git", "GitHub", "Postman", "VS Code", "Cloudinary", "Render", "Railway", "Vercel"}}
     };
     
     vector<string> currentFocus = {
         "Mastering Data Structures & Algorithms in C++",
         "Building scalable Full Stack applications",
+        "Real-time apps with Socket.io & WebRTC 🎥",
         "Exploring DevOps: Docker & Kubernetes 🐳",
-        "Working on new exciting projects",
         "Open to Internship Opportunities 💼"
     };
     
@@ -66,11 +67,11 @@ int main() {
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🔭 Currently working on **Full Stack Web Development**
+- 🔭 Currently working on **Full Stack & Real-time Web Apps**
 - 🧠 Sharpening my **DSA skills in C++**
+- 🎥 Built **MeetInVirtual** — a WebRTC video conferencing platform
 - 🐳 Exploring **DevOps** with **Docker & Kubernetes**
-- 🚀 Building new exciting projects
-- 🌱 Learning **Redux** and advanced **React.js** patterns
+- 🌱 Learning **TypeScript** and advanced **React.js** patterns
 - 💼 Looking for **internship opportunities** to apply my skills
 - 🎓 2nd Year **BTech Computer Science** student
 - ⚡ Fun fact: I debug faster after midnight 🌙
@@ -86,12 +87,16 @@ int main() {
 ### 💻 Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -100,8 +105,15 @@ int main() {
 ### ⚙️ Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔌 Real-time & Communication
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 
 ### 🐳 DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -110,7 +122,11 @@ int main() {
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=black)
 
@@ -118,45 +134,69 @@ int main() {
 
 ---
 
-## 🏗️ Featured Project
+## 🏗️ Featured Projects
 
-<div align="center">
+### 🎥 [MeetInVirtual — Video Conferencing Platform](https://meet-in-virtual.vercel.app/)
 
-### 🌍 [WanderLust - Property Listing Platform](https://wanderlust-r6m1.onrender.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://meet-in-virtual.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Princekr267/MeetinVirtual)
 
-[![WanderLust](https://img.shields.io/badge/Live_Demo-FF4088?style=for-the-badge&logo=vercel&logoColor=white)](https://wanderlust-r6m1.onrender.com)
-
-</div>
-
-A full-stack **production-ready** property listing platform where users can browse, list, and review properties.
+A production-ready **real-time video conferencing** platform built with the MERN stack, WebRTC, and Socket.io — supporting both authenticated users and guests.
 
 **🔥 Key Features:**
-- 🔐 **Secure Authentication** - User login/signup with Passport.js
-- 👥 **Role-Based Authorization** - Admin and user access controls
-- 🏡 **Property Listings** - 10+ categories with detailed information
-- ☁️ **Cloud Storage** - Image uploads via Cloudinary integration
-- ⭐ **Review System** - Users can rate and review properties
-- 📱 **Responsive Design** - Mobile-friendly Bootstrap UI
+- 🔐 **Authentication** — Email/password + Google OAuth, OTP-based password reset via email
+- 🎥 **Video Calling** — Peer-to-peer WebRTC with camera & mic toggles (hardware released when off)
+- 💬 **Live Chat** — Text messages, file sharing (up to 5 MB), chat history download
+- 🤖 **AI Assistant** — `@ai` for quick answers, `#ai` to include full chat context (Google Gemini, streaming)
+- 🎨 **Whiteboard** — Fabric.js canvas with pencil, shapes, text, eraser, undo/redo, PNG export;
+- 😂 **Emoji Reactions** — Animated floating emojis broadcast to all participants
+- 📌 **Pin Participants** — Focus any remote user's video full-screen
+- 👑 **Host Controls** — Lock room, mute/video-off participants, kick, transfer host
+- 📜 **Meeting History** — Past meetings with one-click rejoin
 
 **🛠️ Tech Stack:**
 ```javascript
 const techStack = {
-    frontend: ["EJS", "Bootstrap", "CSS"],
-    backend: ["Node.js", "Express.js"],
-    database: "MongoDB",
-    architecture: "MVC (Models, Views, Controllers)",
-    authentication: "Passport.js",
-    storage: "Cloudinary",
-    deployment: "Render"
+    frontend:    ["React 19", "Material UI 7", "React Router 7", "Vite"],
+    realtime:    ["Socket.IO", "WebRTC (RTCPeerConnection)", "STUN (Google)"],
+    backend:     ["Node.js", "Express 5", "Passport.js (Google OAuth)", "Nodemailer", "Bcrypt"],
+    database:    "MongoDB + Mongoose ODM",
+    auth:        ["JWT / Crypto tokens", "Google OAuth 2.0", "OTP via Email"],
+    ai:          "Google Gemini (streaming)",
+    whiteboard:  "Fabric.js",
+    deployment:  { frontend: "Vercel", backend: "Railway" }
 };
 ```
 
-**💡 What I Learned:**
-- Clean MVC architecture implementation
-- Secure CRUD operations with authentication
-- Production-level backend workflows
-- Cloud-based file management
-- Real-world full-stack development practices
+---
+
+### 🌍 [WanderLust — Property Listing Platform](https://wanderlust-r6m1.onrender.com)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4088?style=for-the-badge&logo=vercel&logoColor=white)](https://wanderlust-r6m1.onrender.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Princekr267)
+
+A full-stack **production-ready** property listing platform where users can browse, list, and review properties.
+
+**🔥 Key Features:**
+- 🔐 **Secure Authentication** — User login/signup with Passport.js
+- 👥 **Role-Based Authorization** — Admin and user access controls
+- 🏡 **Property Listings** — 10+ categories with detailed information
+- ☁️ **Cloud Storage** — Image uploads via Cloudinary integration
+- ⭐ **Review System** — Users can rate and review properties
+- 📱 **Responsive Design** — Mobile-friendly Bootstrap UI
+
+**🛠️ Tech Stack:**
+```javascript
+const techStack = {
+    frontend:       ["EJS", "Bootstrap", "CSS"],
+    backend:        ["Node.js", "Express.js"],
+    database:       "MongoDB",
+    architecture:   "MVC (Models, Views, Controllers)",
+    authentication: "Passport.js",
+    storage:        "Cloudinary",
+    deployment:     "Render"
+};
+```
 
 ---
 
@@ -168,7 +208,7 @@ const techStack = {
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Princekr267)
 
-**📊 Progress:** 23+ Problems Solved and counting! 🚀
+**📊 Progress:** Actively solving problems and growing! 🚀
 
 </div>
 
@@ -233,12 +273,13 @@ void solveProblem() {
 graph LR
     A[DSA Mastery] --> B[Advanced C++]
     A --> C[Problem Solving]
-    D[Full Stack] --> E[React.js & Redux]
-    D --> F[Backend Optimization]
+    D[Full Stack] --> E[TypeScript + React]
+    D --> F[Real-time Apps]
     G[DevOps] --> H[Docker]
     G --> I[Kubernetes]
     B --> J[Competitive Programming]
     E --> K[Modern Web Apps]
+    F --> K
     H --> L[Containerization]
     I --> L
     
@@ -255,7 +296,7 @@ graph LR
 | 🎯 Area | 📚 Focus | ✅ Status |
 |---------|----------|-----------|
 | **Data Structures** | Trees, Graphs, Dynamic Programming | In Progress 🔄 |
-| **Web Development** | MERN Stack, Redux State Management | Active 🚀 |
+| **Web Development** | MERN Stack, TypeScript, Socket.io, WebRTC | Active 🚀 |
 | **DevOps** | Docker, Kubernetes, Containerization | Exploring 🐳 |
 | **System Design** | Scalable Architecture Patterns | Learning 🔍 |
 | **Open Source** | Contributing to community projects | Planning 📝 |
@@ -268,7 +309,7 @@ graph LR
 
 ### 🚀 I'm actively seeking **internship opportunities** where I can:
 
-✨ Apply my Full Stack development skills  
+✨ Apply my Full Stack & Real-time development skills  
 🧠 Solve real-world problems with DSA  
 🤝 Collaborate with talented teams  
 📈 Learn and grow as a developer  
